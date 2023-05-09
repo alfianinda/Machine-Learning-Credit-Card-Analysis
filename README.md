@@ -104,7 +104,7 @@
 
 ## Codes
 
-https://alfianinda.github.io/Machine-Learning-Credit-Card-Analysis/credit%20card%20analsis.pdf
+https://alfianinda.github.io/Machine-Learning-Credit-Card-Analysis
 
 
 ## Results
