@@ -26,6 +26,7 @@
 
 
 ## Summary of Findings
+
 - cluster 0: ***Insufficient credit history***
     - young age
     - moderate loan amount
@@ -84,6 +85,7 @@
 
 
 ## Business Recommendation
+
 - cluster 0: ***Insufficient credit history***
   - Good candidates
   - Ask to use credit card
@@ -102,8 +104,12 @@
 
 ## Codes
 
+https://alfianinda.github.io/Machine-Learning-Credit-Card-Analysis/credit%20card%20analsis.pdf
+
 
 ## Results
+
+https://alfianinda.github.io/Machine-Learning-Credit-Card-Analysis/credit%20card%20analsis.pdf
 
 
 ## Developer
