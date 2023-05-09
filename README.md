@@ -1,5 +1,6 @@
 # Credit Card Analysis of Czech Bank
 
+
 ## Description
 
 > The bank managers want to know, who is a good client (whom to offer some additional services) and who is a bad client (whom to watch carefully to minimize the bank loses). Fortunately, the bank stores data about their clients, the accounts (transactions within several months), the loans already granted, the credit cards issued the bank managers hope to improve their understanding of customers and seek specific actions to improve services. 
@@ -22,6 +23,7 @@
 ## Objective
 
 > Using agglomerative and kmeans clustering algorithms to analyse the bank data in order to extrapolate from it the type of customer who makes a good candidate for a credit card.
+
 
 ## Summary of Findings
 - cluster 0: ***Insufficient credit history***
@@ -80,6 +82,7 @@
     - withdrawal
     - mostly household
 
+
 ## Business Recommendation
 - cluster 0: ***Insufficient credit history***
   - Good candidates
@@ -96,8 +99,15 @@
 - cluster 5: ***Young debtor men***
   - Offer some additional services
 
+
+## Codes
+
+
+## Results
+
+
 ## Developer
 
 > **NUR INNA ALFIANINDA**
 
-> ni.alfianinda@gmail.com
+> http://cv.alamazed.com/
