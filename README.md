@@ -116,4 +116,4 @@ https://alfianinda.github.io/Machine-Learning-Credit-Card-Analysis/credit%20card
 
 > **NUR INNA ALFIANINDA**
 
-> https://cv.alamazed.com/data/
+> ni.alfianinda@gmail.com
